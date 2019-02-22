@@ -1,4 +1,4 @@
-token=NTEwNTA4NDAyMTYyNzk0NDk2.DsdXjw.2cRslnBDMWtK1gMU7rt-UdvO9FY
+token=BOT_TOKEN
 owner=479090634813341696 
 prefix=3
 game=OLD Server.
