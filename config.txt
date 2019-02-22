@@ -1,6 +1,6 @@
 token=BOT_TOKEN
 owner=479090634813341696 
 prefix=3
-game=OLD Server.
+game=GGG Server.
 stayinchannel=true
 songinstatus=true
